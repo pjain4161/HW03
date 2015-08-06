@@ -122,6 +122,7 @@ def main():
 
     ############################################################################
     # Uncomment the below to test and before commiting:
+
     print "Exercise 1"
     print"------------------"
     print compare(1,1)
@@ -156,6 +157,7 @@ def main():
     print is_power(27,3)
     print is_power(248832,12)
     print is_power(248844,12)
+
 
 
 if __name__ == "__main__":
